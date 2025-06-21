@@ -1,9 +1,9 @@
 ## Hi, I'm Siyona ✨
 
 🧠 Computer Science student at NYU Abu Dhabi<br/>
+🐙 Making projects creative and colourful again<br/>
 🎨 Painter and Interactive Media designer<br/>
 🎸 Wannabe electric guitar player<br/>
-🐙 Making projects creative and colourful again<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siyona.g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siyona-goel-b26b04343) 
